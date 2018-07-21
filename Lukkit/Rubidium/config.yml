@@ -1,0 +1,13 @@
+worldName: Game
+worldSize: '500'
+warpSize: '200'
+playerLimit: '8'
+allowOcean: false
+allowDesert: true
+allowMountain: true
+allowJungle: 'false'
+allowFeast: 'false'
+largeBiomes: 'true'
+difficulty: '3'
+shrinkDelay: '300'
+shrinkTime: '180'
