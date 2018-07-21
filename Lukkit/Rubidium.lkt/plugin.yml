@@ -1,0 +1,5 @@
+main: main.lua
+version: 1.0
+description: Automated minigames for GearUp's Streamer Saturday.
+name: Rubidium
+author: Lord_Cuddles
