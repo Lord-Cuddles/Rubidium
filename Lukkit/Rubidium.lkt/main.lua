@@ -1,4 +1,4 @@
-dplugin.version = "1.0"
+plugin.version = "1.0"
 server = plugin.getServer()
 config = plugin.getStorageObject( "config.yml" )
 entities = import("$.entity.EntityType")
