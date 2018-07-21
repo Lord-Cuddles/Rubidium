@@ -1,0 +1,5 @@
+main: main.lua
+version: 2.0
+name: Rubidium
+description: Automated minigames plugin for Streamer Saturday events.
+author: Lord_Cuddles
